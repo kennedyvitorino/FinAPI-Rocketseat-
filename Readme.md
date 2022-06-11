@@ -1,4 +1,4 @@
-# FinAPI 🏦
+# FinAPI 🏦💳
 
 ---
 
