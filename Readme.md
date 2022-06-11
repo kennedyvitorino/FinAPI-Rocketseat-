@@ -11,7 +11,8 @@
 - Deve ser possível  buscar o estrato bancário do cliente por data ✔
 - Deve ser possível atualizar os dados da conta do cliente ✔
 - Deve ser possível obter dados da conta do cliente ✔
-- [] Deve ser possível deletar uma conta
+- Deve ser possível deletar uma conta ✔
+- [] Deve ser possível retornar o balance
 
 ## Regras de negócio
 
