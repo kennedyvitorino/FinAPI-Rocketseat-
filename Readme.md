@@ -1,4 +1,4 @@
-# FinAPI 🏦💳
+# Finance API 🏦💳
 
 ---
 
