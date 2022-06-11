@@ -1,3 +1,4 @@
+const { application } = require('express');
 const express = require('express');
 const { v4: uuidv4} = require('uuid');
 
@@ -117,6 +118,11 @@ app.get('/statement/date', verifiryIfExistsAccountCPF, (request, response) => {
 
     return response.json(statement);
 
+});
+
+app.put('/account', (request, response) => {
+
+    
 });
 
 app.listen(6666);
