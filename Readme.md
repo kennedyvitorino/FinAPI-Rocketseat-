@@ -12,7 +12,7 @@
 - Deve ser possível atualizar os dados da conta do cliente ✔
 - Deve ser possível obter dados da conta do cliente ✔
 - Deve ser possível deletar uma conta ✔
-- [] Deve ser possível retornar o balance
+- Deve ser possível retornar o balance ✔
 
 ## Regras de negócio
 
@@ -21,4 +21,4 @@
 - Não deve ser possível fazer depósito em uma conta não existente ✔
 - Não deve possível fazer saque em uma conta não existente ✔
 - Não deve possível excluir uma conta que não existe ✔
-- [] Não deve possível fazer saque quando o saldo for insuficiente
+- Não deve possível fazer saque quando o saldo for insuficiente ✔
